@@ -1,0 +1,15 @@
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\bin\Debug\net6.0\PROJETOS_GitHub1.exe
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\bin\Debug\net6.0\PROJETOS_GitHub1.deps.json
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\bin\Debug\net6.0\PROJETOS_GitHub1.runtimeconfig.json
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\bin\Debug\net6.0\PROJETOS_GitHub1.dll
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\bin\Debug\net6.0\PROJETOS_GitHub1.pdb
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.csproj.AssemblyReference.cache
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.AssemblyInfoInputs.cache
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.AssemblyInfo.cs
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.csproj.CoreCompileInputs.cache
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.dll
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\refint\PROJETOS_GitHub1.dll
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.pdb
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\PROJETOS_GitHub1.genruntimeconfig.cache
+C:\Users\YXTR\Desktop\PROJETOS_GitHub1\obj\Debug\net6.0\ref\PROJETOS_GitHub1.dll
